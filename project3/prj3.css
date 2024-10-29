@@ -25,7 +25,6 @@ body {
     flex-wrap: wrap;
     gap: 20px; /* Space between boxes */
   }
-  
   .animal-card {
     width: 250px;
     height: 300px;
@@ -38,13 +37,11 @@ body {
     text-align: center;
     background-color: #f9f9f9; /* Optional background color */
   }
-  
   .animal-card img {
     width: 100%;
     height: auto; /* Keep image aspect ratio */
     max-height: 150px; /* Limit image height */
-  }
-  
+  } 
   .animal-card h3 {
     margin: 10px 0 5px;
   }
