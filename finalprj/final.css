@@ -1,26 +1,13 @@
 .banner {
-    background-image: url('background.png'); /* Replace with your background image */
-    background-size: cover; /* Ensures the image covers the whole banner */
-    background-position: center; /* Centers the image in the banner */
+    background-image: url('background.png'); 
+    background-size: cover; 
+    background-position: center;
     color: white;
     padding: 50px;
     text-align: center;
     position: relative;
  }
- .banner img {
-    width: 50px;  /* Adjust size of the logo */
-    height: auto;
-    vertical-align: middle;
-    margin-right: 15px;
+ .div :hover {
+   color: aqua;
+   flex-grow: 60px;
  }
- .banner h1 {
-    display: inline-block;
-    font-size: 36px;
-    margin: 0;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Optional: Adds a shadow to make the text more readable */
- }
- .banner p {
-    font-size: 18px;
-    margin-top: 10px;
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
- } 
