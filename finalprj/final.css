@@ -9,5 +9,13 @@
  }
  .div :hover {
    color: aqua;
-   flex-grow: 60px;
+ }
+
+ .hide {
+   display: none;
+ }
+ 
+ .myDIV:hover + .hide {
+   display: block;
+   color: red;
  }
