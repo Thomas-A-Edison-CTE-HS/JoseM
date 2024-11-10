@@ -41,8 +41,8 @@ div {
 }
 
 .headings {
-  color: rgba(128, 0, 0, 0.78);
-  text-shadow: -2px 2px aqua;
+  color: black;
+  text-shadow: -2px 2px darkblue;
   display: flex;
   text-decoration: underline;
   width: 600px;
