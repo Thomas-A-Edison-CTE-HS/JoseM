@@ -122,13 +122,13 @@ div {
 }
 
 #easy {
-  color: limegreen;
+  color: purple;
   text-shadow: 1px 1px white;
 }
 
 #medium {
-  color: orange;
-  text-shadow: 1px 1px darkorange;
+  color: yellow;
+  text-shadow: 1px 1px darkgreen;
 }
 
 #hard {
@@ -175,7 +175,7 @@ div {
 
   margin: 10px auto;
 
-  transition: height 0.5s ease;  /* Adjust the speed for smooth expansion */
+  transition: height 0.8s ease;  /* Adjust the speed for smooth expansion */
 
 }
 
@@ -198,7 +198,7 @@ div {
 
   text-decoration: underline;
 
-  color: limegreen;
+  color: forestgreen;
 
   text-align: center;
 
@@ -232,7 +232,7 @@ div {
 
   text-decoration: underline;
 
-  color: orange;
+  color: blue;
 
   text-align: center;
 
