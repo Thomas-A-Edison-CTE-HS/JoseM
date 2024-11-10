@@ -23,20 +23,8 @@ div {
   font-size: large;
 }
 
-.container{
-  background-image: url('PixARTbackground_alt.jpeg');
-  background-size: cover; /* Ensures the image covers the entire element */
-  background-repeat: no-repeat; /* Prevents the image from repeating */
-  background-position: center; /* Centers the image */
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center;
-}
-
 .container > .title:hover{
-  background-color: grey;
+  background-color: purple;
 }
 
 .container > .headings:hover{
@@ -94,7 +82,7 @@ div {
   transform: scale(1.05);
 }
 
-.imgofme {
+.me {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -103,7 +91,7 @@ div {
   transition: transform 0.3s;
 }
 
-.imgofme:hover{
+.me:hover{
   transform: scale(1.05);
 }
 
@@ -179,16 +167,13 @@ div {
 
 }
 
-
-/* Expanding effect on hover */
-
 .wave:hover {
 
   height: 350px;  /* Adjust to fit content */
 
 }
 
-.wave2 {
+.W2 {
 
   border: 4px solid #192A51;
 
@@ -216,13 +201,13 @@ div {
 
 }
 
-.wave2:hover {
+.W2:hover {
 
   height: 480px;
 
 }
 
-.wave3 {
+.W3 {
 
   border: 4px solid #192A51;
 
@@ -250,13 +235,13 @@ div {
 
 }
 
-.wave3:hover {
+.W3:hover {
 
   height: 480px;
 
 }
 
-.wave4 {
+.W4 {
 
   border: 4px solid #192A51;
 
@@ -284,7 +269,7 @@ div {
 
 }
 
-.wave4:hover {
+.W4:hover {
 
   height: 480px;
 
