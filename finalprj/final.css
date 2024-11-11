@@ -12,17 +12,6 @@ div {
   border:  3px black solid;
 }
 
-#link-home {
-  text-align: center;
-  font-size: large;
-
-}
-
-#Link-home-text {
-  text-align: center;
-  font-size: large;
-}
-
 .container > .title:hover{
   background-color: purple;
 }
