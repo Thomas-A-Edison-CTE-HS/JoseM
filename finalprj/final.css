@@ -105,8 +105,8 @@ div {
 }
 
 .centered-list {
-  display: inline-block; /* Make the list inline-block */
-  text-align: left; /* Optional: left-align the list items for better readability */
+  display: inline-block
+   text-align left; 
 }
 
 #easy {
