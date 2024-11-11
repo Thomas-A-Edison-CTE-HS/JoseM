@@ -61,9 +61,9 @@ div {
 }
 
 .title {
-  border:  4px yellow dotted;
+  border:  4px blue dashed;
   color: white;
-  text-shadow: -2px 2px yellow;
+  text-shadow: -2px 2px red;
   display: flex;
   text-decoration: underline;
   width: 575px;
