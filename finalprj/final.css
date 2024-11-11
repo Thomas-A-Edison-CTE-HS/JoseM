@@ -124,21 +124,6 @@ div {
   text-shadow: 1px 1px black;
 }
 
-.container2{
-  background-image: url('PixARTbackground_full.jpeg');
-  background-size: cover; /* Ensures the image covers the entire element */
-  background-repeat: no-repeat; /* Prevents the image from repeating */
-  background-position: center; /* Centers the image */
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  height: 1000px;
-}
-
-/* Basic styling for the wave container */
-
 .wave {
 
   border: 4px solid #192A51;
@@ -163,13 +148,13 @@ div {
 
   margin: 10px auto;
 
-  transition: height 0.8s ease;  /* Adjust the speed for smooth expansion */
+  transition: height 0.8s ease;
 
 }
 
 .wave:hover {
 
-  height: 350px;  /* Adjust to fit content */
+  height: 350px;
 
 }
 
