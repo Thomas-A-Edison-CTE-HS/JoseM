@@ -2,3 +2,9 @@ body{
     background-color: navy;
     color: ghostwhite;
 }
+a:hover {
+    color: White;
+}
+a :visited {
+    color: whitesmoke;
+}
